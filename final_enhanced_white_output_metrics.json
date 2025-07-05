@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "avg_processing_time_ms": 1.23512,
+    "avg_estimated_snr": 1.36405,
+    "avg_dsp_weight": 0.461615,
+    "avg_ml_weight": 0.538385,
+    "avg_noise_reduction_db": 25.8704,
+    "total_frames": 280
+  },
+  "strategy_distribution": {
+    "aggressive": 279,
+    "balanced": 1
+  },
+  "noise_type_distribution": {
+    "broadband": 267,
+    "mixed": 13
+  }
+}
